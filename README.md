@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# streamlit-web-app-poc
 
 Description of the app ...
 
